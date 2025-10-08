@@ -1,5 +1,5 @@
 # Universal VIP Server Generator
-universal vip server generator created by heardkometa on v3rm, message me on discord if you want this to be removed
+universal vip server generator created by [heardkometa](https://v3rm.net/members/heardkometa.91784/) on v3rm, message me on discord if you want this to be removed
 
 Loadstring:
 ```
